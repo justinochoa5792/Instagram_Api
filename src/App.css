@@ -1,0 +1,12 @@
+.App {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.App li {
+  list-style-type: none;
+}
+
+img {
+  width: 100%;
+}
